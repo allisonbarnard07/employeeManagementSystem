@@ -28,4 +28,4 @@
       N/A
       
       ##DEMO
-      ![App GIF](employeeManagementSystem.png)
+      ![App GIF](employeeManagementSystem.gif)
