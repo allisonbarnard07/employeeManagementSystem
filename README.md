@@ -10,7 +10,7 @@
        undefined
 
       ## Table of Contents 
-      1. Instructions 2. Usage 3.Licenses 4.Contribution 5.Tests
+      1. Installation <br> 2. Usage <br> 3.Licenses <br> 4.Contribution <br> 5.Tests
 
       ## Installation
       Node.js is required to run this app      
