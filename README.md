@@ -27,3 +27,5 @@
       ## Testing 
       N/A
       
+      ##DEMO
+      ![App GIF](employeeManagementSystem.png)
