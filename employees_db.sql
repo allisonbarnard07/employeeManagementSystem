@@ -54,5 +54,8 @@ select * from department;
 select * from role; 
 select * from employee; 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> b73e30929235e91fae6678b2a9e70d7ad9afacc0
