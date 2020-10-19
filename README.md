@@ -1,5 +1,4 @@
-## Title
-Employee Management System App
+## Employee Management System App
       
 ## Description 
 This app was created using MySQL and JS. It was created to help companies easily manage new employees. It also gives companies the ability to edit employees. Functionality    includes: Ability to add employees, departments, and roles; View employees, departments and roles; and update employee roles. 
