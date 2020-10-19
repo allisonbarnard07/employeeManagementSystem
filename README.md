@@ -13,8 +13,6 @@ This app was created using MySQL and JS. It was created to help companies easily
 ## Usage 
       Installation of mySQL, inquirer and console.table is required for application useage
 
-## Licenses 
-      MIT
-      
-      ## DEMO
-      ![App GIF](employeeManagementSystem.gif)
+
+## DEMO
+![App GIF](employeeManagementSystem.gif)
