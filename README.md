@@ -5,19 +5,16 @@ This app was created using MySQL and JS. It was created to help companies easily
 
 
 ## Table of Contents 
-1. Installation <br> 2. Usage <br> 3.Licenses <br> 4.Contribution <br> 5.Tests
+<br> 1. Installation <br> 2. Usage <br> 3.Licenses <br> 4.Contribution <br> 5.Tests
 
-      ## Installation
+## Installation
       Node.js is required to run this app      
 
-      ## Usage 
+## Usage 
       Installation of mySQL, inquirer and console.table is required for application useage
 
-      ## Licenses 
+## Licenses 
       MIT
-
-      ## Contribution 
-      Allison Barnard
       
       ## DEMO
       ![App GIF](employeeManagementSystem.gif)
